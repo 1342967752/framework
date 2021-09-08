@@ -1,0 +1,1 @@
+{"type":"Box","props":{"y":0,"x":0,"width":750,"presetID":1,"name":"AdFullPage","isPresetRoot":true,"height":1334,"bgColor":"#050505","alpha":1},"compId":856,"child":[{"type":"Script","props":{"presetID":22,"runtime":"script/add/Page/AdFullView.js"},"compId":938}],"loadList":[],"loadList3D":[]}
